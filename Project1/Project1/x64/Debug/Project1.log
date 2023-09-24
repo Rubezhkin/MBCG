@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Говнокод\Лабы\КГ\laba0.1\Project1\Project1\Source.cpp(104): warning C4715: windowProcedure: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> D:\Говнокод\Лабы\КГ\laba0.1\Project1\x64\Debug\Project1.exe
